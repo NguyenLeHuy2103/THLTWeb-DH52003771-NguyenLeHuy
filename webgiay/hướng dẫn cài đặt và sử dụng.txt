@@ -1,0 +1,12 @@
+Web còn hơi thiếu sót nên mong thầy thông cảm.
+1.Hướng dẫn cài đặt
+  -cài visual studio code.
+  -cài môi trường
+  -cài đặt warm để chạy file index.php trên localhost và flie SQl trên phpMyadmin
+  -tải source code và database về máy 
+  -bỏ phần source code vào C:\wamp64\www
+2.Hướng dẫn sử dụng.
+  -chạy source code trên visual studio code
+  -Chạy warm,mở localhost và phpMyadmin lên 
+  -add source code vào localhost và add databa sql vào phpMyadmin
+  -Chạy địa chỉ này trên trình duyệt http://localhost/webgiay/index.php để chạy web
