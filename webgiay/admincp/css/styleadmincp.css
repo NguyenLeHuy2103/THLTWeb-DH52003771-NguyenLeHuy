@@ -1,0 +1,98 @@
+
+
+.header_admin {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: xx-large;
+    background-color: #f2f2f2;
+    max-width: 100%;
+}
+
+.wrapper {
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+}
+.admin_menu {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    
+}
+.admin_menu a {
+    padding: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    margin-right: 30px;
+}
+.admin_menu a:hover {
+    color: #a6a6a6;
+}
+.admin_list {
+    list-style: none;
+
+}
+
+ul.admincp_list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+ul.admincp_list li {
+    float: left;
+    margin: 5px;
+}
+
+.clear {
+    clear: both;
+}
+
+h2.them {
+    text-align: center;
+    padding: 20px;
+
+}
+.them_link {
+    display: flex;
+    justify-content: center;
+}
+tr.input_dmsp {
+    border: white;
+    text-align: center;
+}
+
+.them_link td{
+    padding: 15px;
+}
+
+.btn{
+    background-color: #26734d;
+    color: white;
+    border: none;    
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    text-decoration: none;  
+}
+
+a.btn.cl_red {
+    background-color: #b30000;
+}
+th{
+    background-color: #f2f2f2;
+    padding: 10px 0;
+   
+}
+
+h3.hearder {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
